@@ -1,0 +1,16 @@
+/* main.css for Pomodoro Timer */
+.timer-container {
+    text-align: center;
+    max-width: 400px;
+    margin: 50px auto;
+}
+.timer-display {
+    font-size: 4rem;
+    font-family: 'Courier New', monospace;
+    margin: 2rem 0;
+}
+.controls button {
+    padding: 1rem 2rem;
+    margin: 0 0.5rem;
+    font-size: 1.2rem;
+}
